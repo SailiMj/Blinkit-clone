@@ -145,7 +145,7 @@ td{
 .section-4>div>h5{
     color: #0C831F;
 }
-@media screen and (max-width:490px){
+@media screen and (max-width:470px){
     nav{
        
         justify-content: space-between !important;
@@ -182,6 +182,7 @@ td{
         text-align: center;
     }
     #footer-links{
-        margin: 0px 10px;
+        margin-right: 70px !important;
+        margin-left: 70px !important;
     }
 }
